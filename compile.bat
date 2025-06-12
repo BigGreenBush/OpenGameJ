@@ -1,0 +1,1 @@
+py JMCC\jmcc.py compile ..\main.jc -u
